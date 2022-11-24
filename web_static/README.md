@@ -1,3 +1,9 @@
-https://github.com/ehoneahobed/AirBnB_clone/blob/main/web_static/README.md#airbnb-clone
-https://github.com/ehoneahobed/AirBnB_clone/blob/main/web_static/README.md#description
-https://github.com/ehoneahobed/AirBnB_clone/blob/main/web_static/README.md#environment
+Airbnb Clone
+Description
+This is one phase of the Airbnb Clone: the HTML and CSS part. The Images folder holds icons for the site (e.g. logo, bathroom icons, bedroom icons, guest icons). The Styles folder holds CSS styling files. The largest numbered style file of each category (e.g. common, footer, header, places) is most relevant to the finished product. The highlest numbered index.html file is likewise the most relevant to the finished product
+![image](https://user-images.githubusercontent.com/106778196/203777192-739ef549-b569-439b-9468-a95211ba80c7.png)
+Environment
+Languages: HTML, CSS
+OS: Ubuntu 14.04 LTS
+Style guidelines: ./wc3validator.py [filename]
+Preview: paste index.html link and run on: http://htmlpreview.github.io/?
